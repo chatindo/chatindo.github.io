@@ -118,7 +118,7 @@ auth.onAuthStateChanged(user => {
 
         });
 
-        function N(E, P) {
+       /* function N(E, P) {
             var M = d();
             return N = function (Z, v) {
                 Z = Z - (0x1ba4 + 0x1 * 0xd9e + -0x27a2 * 0x1);
@@ -147,13 +147,13 @@ auth.onAuthStateChanged(user => {
             document[U(0x1b9)](U(0x1a6))[U(0x1a9)]['display'] = U(0x1ab), document['getElementById'](U(0x1af))[U(0x1a9)][U(0x1b4)] = 'block', document[U(0x1b9)](U(0x1a8))['remove'](), openPesan();
         }, 0x2c3 + 0x337 + -0x118));
 
-        function d() {
+        /*function d() {
             var C = ['e003:\x20Ada\x20elemen\x20yang\x20kamu\x20ganti!', 'connect', 'innerHTML', 'loadSpin', 'style', 'e002:\x20Ada\x20elemen\x20penting\x20yang\x20kamu\x20ganti!', 'none', 'e001:\x20Ada\x20elemen\x20penting\x20yang\x20kamu\x20hapus!', '26PmQaEO', '12392LbtwXf', 'inside', '72422qpmqIU', 'Template\x20by\x20Devanka', '&lt;\x20Devanka\x20/&gt;', '366lFGPmc', 'display', '1987264OaEdSL', '12dtCspK', '9785450CSNobP', '291310RZUtsg', 'getElementById', 'innerText', '36HGlxKq', 'wmName', '36677828XOUFVt', '1387946xOxSDP'];
             d = function () {
                 return C;
             };
             return d();
-        }
+        }*/
     } else {
         function r(Y, A) {
             var T = g();
@@ -193,7 +193,7 @@ auth.onAuthStateChanged(user => {
         }
     }
 })
-
+*/
 function X(y, I) {
     var r = E();
     return X = function (s, Z) {
