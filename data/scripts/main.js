@@ -118,7 +118,7 @@ auth.onAuthStateChanged(user => {
 
         });
 
-       /* function N(E, P) {
+        function N(E, P) {
             var M = d();
             return N = function (Z, v) {
                 Z = Z - (0x1ba4 + 0x1 * 0xd9e + -0x27a2 * 0x1);
@@ -243,7 +243,7 @@ var F = X;
         }
     }
 });
-*/
+
 ///////////////////////////////////////////////////////////
 //// LOGIN USER
 ///////////////////////////////////////////////////////////
